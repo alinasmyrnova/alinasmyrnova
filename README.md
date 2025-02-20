@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Alina 👋
+## Data Analyst based in Stockholm 
 
-<!--
-**alinasmyrnova/alinasmyrnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Languages and Tools
+- **SQL** — for working with databases and queries
+- **Python** — for data processing and analysis
+- **Tableau** — for data visualization
+- **Excel & Google Sheets** — for data manipulation and analysis
+- **Google Analytics** — for web data analysis and reporting
+- **Statistical Analysis** — for conducting statistical research and analysis
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Diploma in Data Analytics**  Hyper Island Stockholm
+- **Master's Degree in Marketing** State University of Trade and Economics
+- **Google Advanced Data Analytics Specialization Certificate**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+
+## 📬 Get in touch
+- Email: [alina.smyrnova@hyperisland.se](mailto:alina.smyrnova@hyperisland.se)
+- LinkedIn: [https://www.linkedin.com/in/alina-smyrnova/](https://www.linkedin.com/in/alina-smyrnova/)
+
